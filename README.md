@@ -48,3 +48,7 @@ AI-conversational-chatbot/
 ├── chat_history.txt
 ├── .gitignore
 └── README.md
+
+ 🖥️ Chatbot Interface
+
+![AI Research Assistant](chatbot-interface.png)
